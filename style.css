@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: linear-gradient(rgba(0,0,0,0.5),#009688),url("images/hi.jpg") no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.5),#009688),url("images/Tim_latest.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 200px;
