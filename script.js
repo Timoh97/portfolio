@@ -34,14 +34,14 @@ $(document).ready(function () {
 
     // typing text animation
     new Typed(".typing", {
-        strings: ["a Software Developer", "an Applied Mathematician", "a Writer", "an Online Tutor"],
+        strings: ["a Software Developer", "an Applied Mathematician","a Researcher", "a Writer", "an Online Tutor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     new Typed(".typing-2", {
-        strings: ["a Software Developer", "an Applied Mathematician", "a Writer", "an Online Tutor"],
+        strings: ["a Software Developer", "an Applied Mathematician", "a Researcher", "a Writer", "an Online Tutor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
